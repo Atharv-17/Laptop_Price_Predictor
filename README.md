@@ -4,7 +4,7 @@
 The Laptop Price Predictor project is designed to predict the prices of laptops based on various features using regression algorithms. This project utilizes the Random Forest algorithm, which has been selected for deployment due to its superior performance. Details of the algorithm's evaluation can be found in the colab notebook (.ipynb) included in the repository.
 
 ## Demo
-You can see the live demo of the project deployed using Streamlit [here](laptoppricepredictor00byatharv-mzjy2pfud9jjbyme4u9wix.streamlit.app/).
+You can see the live demo of the project deployed using Streamlit [here](https://laptoppricepredictor00byatharv-mzjy2pfud9jjbyme4u9wix.streamlit.app/).
 
 ## Libraries Used
 - Pandas
