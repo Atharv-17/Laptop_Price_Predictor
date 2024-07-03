@@ -1,4 +1,4 @@
-# Laptop Price Predictor
+# LapTop Price Compass
 
 ## Description
 The Laptop Price Predictor project is designed to predict the prices of laptops based on various features using regression algorithms. This project utilizes the Random Forest algorithm, which has been selected for deployment due to its superior performance. Details of the algorithm's evaluation can be found in the colab notebook (.ipynb) included in the repository.
